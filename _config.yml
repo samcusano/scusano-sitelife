@@ -8,3 +8,16 @@ collections:
   uploads:
     title: Uploads
     output: true
+tagline: Product Designer
+description: Sam Cusano is a product designer, amateur chef, and  hobbyist photographer
+  living in Brooklyn,.
+author:
+  name: Sam Cusano
+  url: http://www.twitter.com/scusano
+url: https://samcusano.com
+github repo: https://github.com/samcusano/
+social:
+  Instagram: https://www.instagram.com/scusanojr/
+  Twitter: http://www.twitter.com/scusano
+  Github: https://github.com/samcusano/
+  LinkedIn: https://www.linkedin.com/in/samcusanojr
